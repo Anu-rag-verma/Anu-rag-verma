@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on this profile. I will be back with exciting information ...
-- 😄 meanWhile you can check [myResume](https://github.com/Anu-rag-verma/Resume.md) 
+- 😄 meanWhile you can check [myResume](https://github.com/Anu-rag-verma/Anu-rag-verma/blob/main/Resume.md)
 
 <!--
 **Anu-rag-verma/Anu-rag-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
